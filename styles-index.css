@@ -1,0 +1,21 @@
+body{
+    font-family:"Times New Roman", sans-serif, "Geneva";
+    font-size: 30px;
+    background-color: rgb(0, 0, 0);
+    color:white;
+}
+.header{
+    margin:10px auto;
+    border:2px solid rgb(255, 255, 255);
+    padding:30px 10px;
+    width:500px;
+    text-align: center;
+}
+.links{
+    margin:30px auto;
+    padding:10px auto;
+    color:greenyellow;
+    display:block;
+    width:500px;
+    text-align: center;
+}
